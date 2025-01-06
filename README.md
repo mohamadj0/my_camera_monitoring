@@ -11,8 +11,6 @@ A Python package for real-time monitoring and analysis of multiple camera feeds.
 - **Sudden Impact Detection**: Identifies sudden changes in the video stream that might indicate an impact.
 
 ## Requirements
-
-- Python 3.x
 - OpenCV
 - NumPy
 - Streamlit
