@@ -26,7 +26,7 @@ To install the package from a ```.whl``` file, run the following command:
 ```bash
 pip install /path/to/my_camera_monitoring-0.1-py3-none-any.whl
 ```
-Replace ```/path/to/your_package-name-version.whl``` with the actual path to your downloaded ```.whl``` file.
+Replace ```/path/to/my_camera_monitoring-0.1-py3-none-any.whl``` with the actual path to your downloaded ```.whl``` file.
 
 
 ## Usage
