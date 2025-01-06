@@ -24,11 +24,11 @@ pip install -r requirements.txt
 ```
 ## Installation
 ### Installing from Wheel File
-To install the package from a .whl file, run the following command:
+To install the package from a ```.whl``` file, run the following command:
 ```bash
 pip install /path/to/your_package-name-version.whl
 ```
-Replace /path/to/your_package-name-version.whl with the actual path to your downloaded .whl file.
+Replace /path/to/your_package-name-version.whl with the actual path to your downloaded ```.whl``` file.
 
 
 ## Usage
